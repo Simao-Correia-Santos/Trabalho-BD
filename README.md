@@ -4,7 +4,7 @@ This	project	aims	at	developing	a simplified	music	streaming	platform.	The	devel
 should	fit	the	required	functionalities and	business	restrictions	to	ensure effective storage and	information	
 processing.
 
-#Functionalities developed
+## Functionalities developed
 1) User	Registration
 2) User	Authentication
 3) Add song
