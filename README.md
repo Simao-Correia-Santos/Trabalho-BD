@@ -1,8 +1,12 @@
-# Trabalho-BD
+# DB-Project
+Academic project developed as part of the DataBase course in the Computer Engineering program (2022-2023)
 
+## 🎯Goal/Description
 This	project	aims	at	developing	a simplified	music	streaming	platform.	The	development	of	the	database	
 should	fit	the	required	functionalities and	business	restrictions	to	ensure effective storage and	information	
 processing.
+
+
 
 ## Functionalities developed
 1) User	Registration
@@ -17,3 +21,11 @@ processing.
 10) Generate	pre-paid	cards
 11) Leave	comment/feedback
 12) Generate	a	monthly	report
+
+## ✔️ Technologies Used
+- ``Python``
+- ``Flask``
+- ``SQL``
+- ``PLPGSQL``
+- ``REST API``
+- ``PostgreSQL``
